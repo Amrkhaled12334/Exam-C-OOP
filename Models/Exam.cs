@@ -20,18 +20,18 @@ public class Exam
         foreach (var question in Questions)
         {
             question.ShowQuestion();
-            Console.Write("✔️ Your Answer: ");
+            Console.Write("Your Answer: ");
             int answer = Convert.ToInt32(Console.ReadLine());
             if (answer == question.CorrectAnswer)
             {
-                Console.WriteLine("✅ Correct!\n");
+                Console.WriteLine("Correct!\n");
                 score++;
             }
             else
             {
-                Console.WriteLine($"❌ Wrong! Correct answer is: {question.CorrectAnswer}\n");
+                Console.WriteLine($"Wrong! Correct answer is: {question.CorrectAnswer}\n");
             }
         }
-        Console.WriteLine($"📊 Your Final Score: {score}/{Questions.Count}");
+        Console.WriteLine($"Your Final Score: {score}/{Questions.Count}");
     }
 }

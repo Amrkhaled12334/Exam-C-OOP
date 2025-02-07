@@ -12,3 +12,18 @@ C:\Users\User\Desktop\New folder (3)\MyConsoleApp\obj\Debug\net9.0\refint\MyCons
 C:\Users\User\Desktop\New folder (3)\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
 C:\Users\User\Desktop\New folder (3)\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\User\Desktop\New folder (3)\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Exam-C-OOP\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
